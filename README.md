@@ -1,7 +1,7 @@
 # Inuyasha
 Inuyasha Skin for Ravager
 
-The charact gameplay fits so well with Inuyasha, so I had to do it. 
+The character gameplay fits so well with Inuyasha, so I had to do it. 
 
 ![inuyasha gameplay](https://github.com/dannyduartemgs/Inuyasha/assets/165226477/74b4a1de-1df0-48fe-abeb-aed84f482cc8)
 
